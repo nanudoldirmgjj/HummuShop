@@ -1,2 +1,2 @@
 # HummuShop
-https://nanudoldirmgjj.github.io/HummuShop/
+https://wolamey.github.io/HummuShop/index.html
